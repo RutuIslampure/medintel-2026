@@ -123,7 +123,6 @@ medintel/
 |---|---|
 | Rutu Shivanand Islampure | CSE-AIML, 5th Sem |
 | Asmita Satyappa Akkiwad | CSE, 5th Sem |
-| Aptha K S | CSE-DS, 5th Sem |
 | Navya D A | CSE-AIML, 5th Sem |
 
 ---
