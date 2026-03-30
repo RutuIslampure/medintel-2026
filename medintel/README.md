@@ -1,6 +1,5 @@
 # 🏥 MedIntel AI — Clinical Decision Intelligence System
-
-> **HEAL-A-THON 2026** · PES University · Centre for Healthcare Engineering & Learning  
+ 
 > *AI Clinical Decision Intelligence System for Early Risk Detection*
 
 ---
@@ -136,4 +135,4 @@ medintel/
 
 ---
 
-*Built at HEAL-A-THON 2026 · PES University · CHEAL*
+
