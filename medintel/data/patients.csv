@@ -1,0 +1,201 @@
+patient_id,name,age,gender,condition,admission_date
+1,Miguel Davis,65,Male,Hypertension,2026-02-14
+2,Isabella Jones,52,Female,Diabetes,2026-02-09
+3,Renee Douglas,79,Male,Healthy,2026-02-17
+4,James Parker,77,Male,Sepsis,2026-02-17
+5,Julie Mccarthy,56,Male,Sepsis,2026-02-25
+6,Derrick Rodriguez,71,Female,Healthy,2026-03-01
+7,Sean Butler,77,Male,Healthy,2026-02-24
+8,David Taylor,46,Male,Heart Failure,2026-02-21
+9,Brandy Ryan,47,Female,Diabetes,2026-03-02
+10,Micheal Bender,56,Female,Hypertension,2026-02-09
+11,Randy Mendoza,79,Male,Hypertension,2026-03-02
+12,Kimberly Chavez,66,Female,Diabetes,2026-03-10
+13,Aaron Oconnor,60,Female,Healthy,2026-03-02
+14,Randy Brown,35,Female,Heart Failure,2026-02-09
+15,Sean Gibbs,35,Male,Healthy,2026-02-24
+16,Michael Travis,78,Female,Healthy,2026-02-18
+17,Sandra Steele,29,Female,Heart Failure,2026-03-01
+18,Lisa Tucker,62,Female,Diabetes,2026-03-03
+19,Michael Farley,69,Female,Diabetes,2026-02-15
+20,James Bean,35,Female,Diabetes,2026-02-11
+21,Jessica Evans,38,Female,Diabetes,2026-02-10
+22,Samuel Mcintosh PhD,59,Male,Healthy,2026-02-13
+23,Joseph Mills,74,Male,Sepsis,2026-02-10
+24,James Turner,37,Male,Heart Failure,2026-02-18
+25,Joseph Moore,52,Male,COPD,2026-03-07
+26,Jennifer Johnson,76,Female,Diabetes,2026-02-12
+27,Brittany Obrien,60,Female,Diabetes,2026-03-09
+28,Kenneth Munoz,48,Male,Diabetes,2026-03-04
+29,Frances Ryan,68,Male,Hypertension,2026-02-13
+30,Jose Gibson,41,Male,Hypertension,2026-02-26
+31,Joshua Stevens,34,Female,Sepsis,2026-02-09
+32,Natalie Guerrero,78,Male,Healthy,2026-02-13
+33,Robert Schroeder,54,Male,Diabetes,2026-03-03
+34,Brandon Barnes,65,Male,COPD,2026-02-16
+35,Sarah Peterson,81,Male,Healthy,2026-02-23
+36,Jessica Castillo,39,Female,Hypertension,2026-02-17
+37,Michelle Clark,79,Female,Healthy,2026-03-10
+38,Jessica Gates,51,Male,Hypertension,2026-02-20
+39,Christine Torres,54,Female,Hypertension,2026-02-13
+40,Johnathan Coleman,37,Female,COPD,2026-03-05
+41,Mr. Michael Fisher,80,Female,Sepsis,2026-02-20
+42,Eric Robertson,83,Male,Heart Failure,2026-02-21
+43,Lance Myers,69,Female,Hypertension,2026-02-21
+44,Kayla Brown,38,Male,Diabetes,2026-02-15
+45,Barbara Lee,31,Female,Heart Failure,2026-02-15
+46,Erik Burton,45,Female,Healthy,2026-02-21
+47,Lisa Rogers,84,Female,Hypertension,2026-02-21
+48,Angela Evans,31,Female,Sepsis,2026-02-22
+49,Taylor Gray,72,Male,Hypertension,2026-02-17
+50,Sherry Fuentes,47,Female,Hypertension,2026-02-22
+51,Gary Allen,78,Female,Hypertension,2026-02-19
+52,William Spears,30,Female,Healthy,2026-02-09
+53,Michael Schultz,68,Female,Healthy,2026-03-08
+54,Carmen Collins,72,Male,Diabetes,2026-03-09
+55,Sara Parker,74,Female,COPD,2026-03-04
+56,Gregory Hampton,69,Male,Heart Failure,2026-02-26
+57,Dylan Holland,35,Male,Sepsis,2026-03-05
+58,Timothy Norton,77,Male,Sepsis,2026-02-27
+59,Donald Burns,48,Male,Diabetes,2026-03-04
+60,Elaine Simpson,32,Female,Hypertension,2026-03-07
+61,Andrew Flowers,29,Male,Diabetes,2026-02-19
+62,Tracy Werner,37,Male,Sepsis,2026-02-10
+63,James Mora,48,Female,Sepsis,2026-03-02
+64,Julie Baker MD,85,Male,Hypertension,2026-02-16
+65,Mario Stevens,58,Female,Diabetes,2026-02-23
+66,Brian White,45,Female,COPD,2026-02-23
+67,Gail Hickman,71,Female,Heart Failure,2026-02-12
+68,Veronica Garcia,47,Female,Sepsis,2026-02-13
+69,Daniel Long,38,Female,Heart Failure,2026-03-08
+70,Gary Burke,31,Female,Hypertension,2026-03-03
+71,Anthony Wright,54,Male,Hypertension,2026-02-10
+72,Sara Mahoney,53,Female,Sepsis,2026-02-25
+73,Amy Fernandez,84,Female,Hypertension,2026-02-25
+74,Jamie Duncan,71,Male,Heart Failure,2026-02-27
+75,Adam Rose,58,Female,Diabetes,2026-02-17
+76,Steven Smith,61,Female,Healthy,2026-03-01
+77,Jared Arnold,58,Male,Heart Failure,2026-03-04
+78,John Foster,81,Male,Healthy,2026-02-28
+79,Edward Yoder,70,Male,Hypertension,2026-02-11
+80,Kathleen Lowe,25,Female,COPD,2026-02-27
+81,Jennifer Williams,38,Male,COPD,2026-03-03
+82,Nicole Vaughan,28,Female,Hypertension,2026-03-04
+83,David Perez,74,Male,Sepsis,2026-02-16
+84,David Payne,49,Male,Hypertension,2026-02-13
+85,Mary Martin,43,Male,Sepsis,2026-02-14
+86,Cody Johnson,69,Female,Diabetes,2026-03-02
+87,Stephen Miller,49,Male,Healthy,2026-03-02
+88,Daniel Davis,47,Female,Diabetes,2026-02-13
+89,Amanda Young,40,Female,Heart Failure,2026-03-04
+90,Sandra Williams,34,Male,Hypertension,2026-03-01
+91,Scott Oneal,58,Female,Sepsis,2026-02-26
+92,James Ford,52,Female,Heart Failure,2026-02-15
+93,Virginia Reid,61,Female,COPD,2026-02-24
+94,Alexandria Castillo,68,Female,Hypertension,2026-02-25
+95,Elizabeth Jordan,57,Female,Hypertension,2026-02-13
+96,Julie Hopkins,35,Female,Diabetes,2026-03-05
+97,Dustin Gutierrez,63,Male,Diabetes,2026-03-04
+98,Joshua Hernandez,56,Male,Heart Failure,2026-02-27
+99,Philip Sanders,64,Male,Heart Failure,2026-02-22
+100,Yvette Parker,51,Male,Hypertension,2026-03-07
+101,Becky Day,58,Male,Heart Failure,2026-02-20
+102,Erin Torres,45,Male,Diabetes,2026-02-19
+103,Amanda Acosta,57,Female,Diabetes,2026-02-21
+104,Jason Aguirre,56,Female,COPD,2026-03-08
+105,Michael Smith,59,Male,Healthy,2026-02-21
+106,Benjamin French,59,Male,Diabetes,2026-02-28
+107,Tyler Davis,29,Male,Diabetes,2026-02-23
+108,Catherine Lopez,68,Male,Hypertension,2026-03-09
+109,Lawrence Acevedo,30,Male,Hypertension,2026-02-10
+110,Eileen Booth,68,Male,Hypertension,2026-03-04
+111,Anthony Garcia,40,Female,Sepsis,2026-02-14
+112,Tiffany Calhoun,59,Male,Sepsis,2026-03-03
+113,Jessica Johnson,83,Male,Healthy,2026-02-24
+114,Tony Sanchez,58,Female,Hypertension,2026-03-09
+115,Mr. Scott Lewis,71,Male,Hypertension,2026-02-28
+116,Joseph Cooper,76,Male,Healthy,2026-02-15
+117,Rachel Bass MD,39,Female,Heart Failure,2026-02-11
+118,Donna Lopez,77,Female,Hypertension,2026-02-21
+119,Angelica Williams,74,Male,Diabetes,2026-02-24
+120,Michael Johnson,54,Male,Sepsis,2026-03-07
+121,Juan Carr,71,Female,Diabetes,2026-02-18
+122,Anthony May,76,Male,Healthy,2026-02-26
+123,Michael Martin,40,Female,Heart Failure,2026-03-08
+124,Susan Tran,63,Male,Hypertension,2026-02-22
+125,Matthew Perez,85,Female,Sepsis,2026-03-08
+126,Jessica Watson,61,Male,Healthy,2026-02-24
+127,Nicholas Davis,49,Female,Heart Failure,2026-02-09
+128,Joe Macdonald,35,Female,Hypertension,2026-03-09
+129,Dustin Perez,31,Male,Hypertension,2026-03-08
+130,Lindsay Parks,34,Male,Hypertension,2026-03-10
+131,Thomas Morris,85,Female,Hypertension,2026-03-04
+132,Elizabeth Moore,75,Female,Hypertension,2026-03-03
+133,Michael Kelley,81,Female,COPD,2026-02-09
+134,Lucas Rogers,56,Female,Sepsis,2026-02-19
+135,Lucas Shepherd,40,Female,Diabetes,2026-02-09
+136,Chris Mcbride,33,Male,Heart Failure,2026-02-21
+137,Anthony Ross,44,Male,Diabetes,2026-02-22
+138,Amanda Garcia,61,Male,Diabetes,2026-03-01
+139,Andrea Paul,72,Female,Diabetes,2026-03-05
+140,Angela Lucero,82,Female,Hypertension,2026-02-22
+141,Cole Allison,59,Male,COPD,2026-02-18
+142,Jeanette Thomas,68,Male,Diabetes,2026-02-12
+143,Stacey Rodriguez,26,Male,COPD,2026-02-28
+144,Amanda Davenport,37,Male,Sepsis,2026-02-15
+145,Daniel Hall,71,Male,Healthy,2026-02-18
+146,Shannon Lyons,81,Male,Diabetes,2026-03-03
+147,Lee Williams,80,Male,Diabetes,2026-03-08
+148,Renee Brady,25,Male,Heart Failure,2026-03-01
+149,Robert Valenzuela,51,Male,Heart Failure,2026-03-01
+150,April Heath,47,Female,Heart Failure,2026-03-02
+151,Dawn Thomas,62,Male,Healthy,2026-03-05
+152,Steven Long,76,Male,Hypertension,2026-02-27
+153,William Brown,70,Female,COPD,2026-02-20
+154,Nathan Day,77,Female,Hypertension,2026-02-27
+155,Abigail Williams,71,Male,Diabetes,2026-02-22
+156,Alexander Edwards,56,Female,Hypertension,2026-02-26
+157,Sherri Arias,47,Female,Hypertension,2026-02-23
+158,Heather Moran,74,Male,Heart Failure,2026-02-16
+159,Amanda Ellison,53,Female,Diabetes,2026-02-12
+160,Teresa Carter,50,Female,Healthy,2026-02-09
+161,Lauren Charles,36,Male,Healthy,2026-02-17
+162,Emma Hubbard,67,Female,COPD,2026-03-05
+163,Elizabeth Lopez,63,Male,Sepsis,2026-02-26
+164,Kimberly Heath,79,Female,Hypertension,2026-02-24
+165,Sharon Hoffman,39,Male,COPD,2026-03-01
+166,Julie Walker,50,Female,Sepsis,2026-02-09
+167,James Flores,62,Male,Heart Failure,2026-02-16
+168,William Walsh,80,Female,Hypertension,2026-02-15
+169,Steven Rodriguez,82,Male,Healthy,2026-02-11
+170,Savannah Smith,74,Male,Healthy,2026-03-01
+171,Catherine Guzman,68,Female,Sepsis,2026-02-27
+172,Christopher Carlson,68,Male,Hypertension,2026-03-02
+173,Tracy Valencia,53,Male,Hypertension,2026-02-28
+174,Michael Leach,43,Female,Diabetes,2026-02-16
+175,David Cooley,46,Female,COPD,2026-03-04
+176,Felicia Bean,47,Male,Healthy,2026-03-09
+177,Teresa Peters,45,Female,Healthy,2026-02-12
+178,Lori Small,38,Female,Heart Failure,2026-03-06
+179,Andrea Evans,77,Male,COPD,2026-02-26
+180,April Duncan,28,Male,Sepsis,2026-02-19
+181,William Martin,72,Female,Healthy,2026-03-08
+182,Michael Fields,62,Female,Diabetes,2026-03-06
+183,Kristy Jenkins,40,Female,Diabetes,2026-03-09
+184,Catherine Leblanc,39,Male,Diabetes,2026-03-08
+185,Ryan Castillo,40,Male,COPD,2026-03-07
+186,Amanda Cunningham,56,Male,Diabetes,2026-02-23
+187,Daniel Escobar,74,Female,Hypertension,2026-02-26
+188,Dr. Sara Smith,41,Female,Heart Failure,2026-02-19
+189,Ashlee Molina,64,Female,Healthy,2026-03-09
+190,Gerald Porter,59,Female,Hypertension,2026-02-23
+191,Matthew Simmons,45,Male,COPD,2026-02-10
+192,Joshua Brennan,78,Female,COPD,2026-03-10
+193,Renee Pacheco,85,Male,Healthy,2026-02-26
+194,Nicholas Garcia,35,Female,Healthy,2026-03-05
+195,Kristen Jones,81,Female,Hypertension,2026-03-03
+196,Karen Solis,38,Male,COPD,2026-02-19
+197,Christopher Green,59,Male,Diabetes,2026-02-17
+198,Steven Lee,69,Male,Sepsis,2026-02-24
+199,Tiffany Fisher MD,47,Female,Heart Failure,2026-02-14
+200,Elizabeth Bush,58,Female,Heart Failure,2026-02-16
